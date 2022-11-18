@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1009856301318287442/1042677181358284810/banner.jpg)
+![MasterHead](https://github.com/nekokaito/nekokaito/blob/main/ezgif-1-ca9ffd388a-min.gif)
 <h1 align="center">Ello, Me <b>Kaito</b></h1>
 <h3 align="center">Loves Cat</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a1/24/05/a1240521cb311588d0194b9e138b5bb6.gif">
