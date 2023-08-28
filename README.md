@@ -7,7 +7,7 @@
 
 -  I’m currently learning **C++, Java and Python**
 
--  Ask me about **C**
+-  Ask me about **C, C++ and Java**
 
 -  Fun fact **I love cat**
 
