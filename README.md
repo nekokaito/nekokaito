@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nekokaito_" target="blank"><img src="https://img.shields.io/twitter/follow/nekokaito_?logo=twitter&style=for-the-badge" alt="nekokaito_" /></a> </p>
 
--  I’m currently learning **C++ and Python**
+-  I’m currently learning **C++, Java and Python**
 
 -  Ask me about **C**
 
