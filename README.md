@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nekokaito_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nekokaito_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddiq-sazzad-514249104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddiq-sazzad-514249104" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siddiqsazzad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddiq-sazzad-514249104" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5257740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5257740" height="30" width="40" /></a>
 <a href="https://fb.com/siddiqsazzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddiqsazzad" height="30" width="40" /></a>
 <a href="https://instagram.com/__nekokaito__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nekokaito__" height="30" width="40" /></a>
