@@ -1,3 +1,4 @@
+[<img align="center" width="auto" src="/nekokaito_github_cover-min.png">](#)
 <h1 align="center">Ello, Me <b>Kaito</b></h1>
 <h3 align="center">Loves Cat</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI1aThra2phc3oydGh3bWE1Z2xpYzh4bHI2djJjbHM2NWdmMHBtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fBuzTdpZyB4NDIXoZ/giphy.gif">
