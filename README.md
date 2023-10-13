@@ -29,11 +29,9 @@
 
  <p align="left"> 
 <a align="left"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=nekokaito&show_icons=true&theme=radical" /></a>
+  <img align="left" width="350" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nekokaito&layout=compact&theme=radical" />
  </p>
 <p align="left">
 <a align="left"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekokaito&theme=radical" /></a>
- <img align="right" width="250" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nekokaito&layout=compact&theme=radical" />
-</p>
-<p align="right">
 
 </p>
