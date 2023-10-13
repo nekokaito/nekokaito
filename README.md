@@ -29,3 +29,8 @@
 
   
 <a align="right"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=nekokaito&show_icons=true&theme=radical" /></a>
+
+
+<a align="center"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekokaito&theme=radical" /></a>
+
+
