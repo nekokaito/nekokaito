@@ -8,9 +8,6 @@
 <br>
 
 -  I’m currently learning **C++ and JavaScript**
-
--  Ask me about **C++ and Java**
-
 -  Fun fact **I love cat**
 
 <a align="left"><img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=nekokaito&theme=radical&border_radius=15" /></a>
