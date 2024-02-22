@@ -7,7 +7,7 @@
 
 <br>
 
--  I’m currently learning **C++, Java and JavaScript**
+-  I’m currently learning **C++ and JavaScript**
 
 -  Ask me about **C++ and Java**
 
