@@ -25,6 +25,34 @@
 
 <br>
 
+&nbsp;
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=nekokaito&theme=tokyonight&hide_border=true"
+    />
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com/?user=nekokaito&theme=graywhite&hide_border=true&background=e6e7ed"
+    />
+  </picture>
+  <br />
+  <hr />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nekokaito&theme=tokyonight&hide_border=true"
+    />
+    <img
+      alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=nekokaito&theme=graywhite&hide_border=true&bg_color=e6e7ed"
+    />
+  </picture>
+</div>
+
+
 <br>
 <p align="center">
 <a href="https://twitter.com/nekokaito_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nekokaito_" height="30" width="40" /></a>
