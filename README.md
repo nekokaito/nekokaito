@@ -56,6 +56,16 @@
   </picture>
 </div>
 
+&nbsp;
+<h3 align="center">Languages & Skills</h3>
+
+<div align="center">
+ 
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,tailwind,react,nodejs,express,firebase,mongodb,)](https://skillicons.dev)
+
+ 
+</div>
+
 
 <br>
 <p align="center">
