@@ -7,7 +7,19 @@
 
 <br>
 
--  I’m currently learning **C++ and JavaScript**
+Hi, I’m Kaito, a passionate developer focused on creating dynamic and efficient applications using the MERN stack. I enjoy crafting clean, scalable code and exploring innovative solutions to real-world challenges.
+
+Beyond coding, I’m a dedicated gamer who loves immersing myself in immersive adventures that fuel my creativity and sharpen my problem-solving skills.
+
+I’m also driven by a vision to reduce dependency on existing tools by building personalized developer platforms and unique tech solutions. Collaboration and growth inspire me, so I enjoy contributing to open-source projects and learning from the amazing developer community.
+
+💻 Coding with passion
+🎮 Gaming with strategy
+🚀 Always ready to explore new ideas
+
+Check out my projects and let’s connect to create something impactful together! 🌟
+
+-  I’m currently learning **C# and Assembly language**
 -  Fun fact **I love cat**
 
 <a align="left"><img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=nekokaito&theme=radical&border_radius=15" /></a>
