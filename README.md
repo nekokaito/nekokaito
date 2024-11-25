@@ -11,8 +11,6 @@ Hi, I’m Kaito, a passionate developer focused on creating dynamic and efficien
 
 Beyond coding, I’m a dedicated gamer who loves immersing myself in immersive adventures that fuel my creativity and sharpen my problem-solving skills.
 
-I’m also driven by a vision to reduce dependency on existing tools by building personalized developer platforms and unique tech solutions. Collaboration and growth inspire me, so I enjoy contributing to open-source projects and learning from the amazing developer community.
-
 💻 Coding with passion
 🎮 Gaming with strategy
 🚀 Always ready to explore new ideas
