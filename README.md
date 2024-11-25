@@ -61,7 +61,7 @@
 
 <div align="center">
  
- [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,tailwind,react,nodejs,express,firebase,mongodb,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,tailwind,react,vite,nodejs,express,firebase,mongodb,)](https://skillicons.dev)
 
  
 </div>
