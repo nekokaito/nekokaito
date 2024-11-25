@@ -21,8 +21,7 @@
 
  <p align="center"> 
 <a align="center"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=nekokaito&show_icons=true&theme=tokyonight&border_radius=15" /></a>
-  <img align="center" width="350" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nekokaito&layout=compact&theme=tokyonight&border_radius=15" />
- </p>
+
 <p align="center">
 <a align="center"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekokaito&theme=tokyonight&border_radius=25" /></a>
 </p>
