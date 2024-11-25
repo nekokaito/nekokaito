@@ -81,3 +81,10 @@
 <a href="https://codeforces.com/profile/siddiqsazzad001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddiqsazzad001" height="30" width="40" /></a>
 <a href="https://discord.gg/c6XRX4VCSj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="c6XRX4VCSj" height="30" width="40" /></a>
 </p>
+
+<div align="center"> 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=120&section=footer">
+   <img alt="Profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=e6e7ed&height=120&section=footer">
+ </picture>
+</div>
