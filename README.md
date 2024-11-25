@@ -14,17 +14,17 @@
 - 🐱 Fun fact: I love cats
 - 🌟 Excited to collaborate, solve problems, and build amazing things!
 
-<a align="left"><img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=nekokaito&theme=radical&border_radius=15" /></a>
 
-<h3 align="left">Github Stats</h3>
+<hr />
+<h3 align="center">Github Stats</h3>
 <br>
 
- <p align="left"> 
-<a align="left"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=nekokaito&show_icons=true&theme=radical&border_radius=15" /></a>
-  <img align="left" width="350" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nekokaito&layout=compact&theme=radical&border_radius=15" />
+ <p align="center"> 
+<a align="center"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=nekokaito&show_icons=true&theme=tokyonight&border_radius=15" /></a>
+  <img align="center" width="350" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nekokaito&layout=compact&theme=tokyonight&border_radius=15" />
  </p>
-<p align="left">
-<a align="left"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekokaito&theme=radical&border_radius=25" /></a>
+<p align="center">
+<a align="center"><img width="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nekokaito&theme=tokyonight&border_radius=25" /></a>
 </p>
 
 <br>
@@ -55,10 +55,10 @@
     />
   </picture>
 </div>
-
+<hr />
 &nbsp;
 <h3 align="center">Languages & Skills</h3>
-
+<br>
 <div align="center">
  
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,tailwind,react,vite,nodejs,express,firebase,mongodb,)](https://skillicons.dev)
@@ -68,6 +68,8 @@
 
 
 <br>
+<hr />
+
 <p align="center">
 <a href="https://twitter.com/nekokaito_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nekokaito_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/siddiqsazzad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddiq-sazzad-514249104" height="30" width="40" /></a>
