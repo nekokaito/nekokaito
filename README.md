@@ -28,20 +28,19 @@
 
 <br>
 
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nekokaito&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+
+
 &nbsp;
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=nekokaito&theme=tokyonight&hide_border=true"
-    />
-    <img
-      alt="GitHub Streak"
-      src="https://streak-stats.demolab.com/?user=nekokaito&theme=graywhite&hide_border=true&background=e6e7ed"
-    />
-  </picture>
-  <br />
+ 
   <hr />
   <picture>
     <source
