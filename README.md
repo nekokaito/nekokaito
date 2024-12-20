@@ -35,8 +35,6 @@
   </a>
 </div>
 
-
-
 &nbsp;
 
 <div align="center">
