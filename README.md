@@ -59,8 +59,7 @@
  
  [![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,tailwind,react,vite,nodejs,express,firebase,mongodb,)](https://skillicons.dev)
 
- 
-</div>
+ </div>
 <br>
 <hr />
 
