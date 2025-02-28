@@ -12,7 +12,7 @@
 - 🚀 Exploring new ideas
 - 🔭 I’m currently working on <b>C++, MERN and Assembly language</b>
 - 🐱 Fun fact: I love cats
-- 🌟 Excited to collaborate, solve problems, and build amazing things!
+- 🌟 Excited to collaborate, solve problems, and build amazing things!!
 
 
 
