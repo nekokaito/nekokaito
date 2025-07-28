@@ -7,15 +7,6 @@
 
 <br>
 
-- 💻 Coding with passion
-- 🎮 Gaming with strategies
-- 🚀 Exploring new ideas
-- 🔭 I’m currently working on <b>Python</b>
-- 🐱 Fun fact: I love cats
-
-
-
-
 <div align="center">
  
   <hr />
