@@ -21,6 +21,18 @@
     />
   </picture>
 </div>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=nekokaito&theme=tokyonight&hide_border=true"
+    />
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com/?user=nekokaito&theme=graywhite&hide_border=true&background=e6e7ed"
+    />
+  </picture>
+</div>
 <hr />
 &nbsp;
 <h3 align="center">Languages & Skills</h3>
