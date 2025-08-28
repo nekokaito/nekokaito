@@ -39,7 +39,7 @@
 <br>
 <div align="center">
  
- [![](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,tailwind,react,vite,nodejs,express,firebase,mongodb,)](https://skillicons.dev)
+ [![](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,tailwind,react,vite,nodejs,express,nextjs,postgresql,firebase,mongodb)](https://skillicons.dev)
 
  </div>
 <br>
