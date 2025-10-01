@@ -10,7 +10,7 @@
 <div align="center">
  
   <hr />
-<!--   <picture>
+  <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nekokaito&theme=tokyonight&hide_border=true"
@@ -19,7 +19,7 @@
       alt="Top Language"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=nekokaito&theme=graywhite&hide_border=true&bg_color=e6e7ed"
     />
-  </picture> -->
+  </picture>
 </div>
 
 <hr />
