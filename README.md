@@ -14,8 +14,18 @@ Code is where my day begins and where my curiosity lives. Writing it, fixing it,
 — Martin Fowler
 </p>
 
+<a href="https://discord.com/users/705335206286065685">
+  <picture>
+    <!-- Dark Mode Lanyard Badge -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/705335206286065685?animated=false&showDisplayName=true&hideDecoration=true&hideTag=true&hideProfile=true&theme=dark">
+    
+    <!-- Light Mode Lanyard Badge (Default fallback) -->
+    <img src="https://lanyard.cnrad.dev/api/705335206286065685?animated=false&showDisplayName=true&hideDecoration=true&hideTag=true&hideProfile=true&theme=light" />
+  </picture>
+</a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/705335206286065685?animated=false&showDisplayName=true&hideDecoration=true&hideTag=true&hideProfile=true)](https://discord.com/users/705335206286065685)
+
+
 <!--
 <br>
 
@@ -43,7 +53,7 @@ Code is where my day begins and where my curiosity lives. Writing it, fixing it,
 --> 
 <div align="center">
  
- [![](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,tailwind,react,vite,nodejs,express,nextjs,postgresql,firebase,mongodb)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,tailwind,react,vite,nodejs,express,nextjs,postgresql,firebase,mongodb)](https://skillicons.dev)
 
  </div>
 <br>
