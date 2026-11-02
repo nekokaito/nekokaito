@@ -1,6 +1,17 @@
 <h1 align="center">Ello, Me <b>Kaito</b> (会と)</h1>
 <h3 align="center">Loves Neko 猫</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI1aThra2phc3oydGh3bWE1Z2xpYzh4bHI2djJjbHM2NWdmMHBtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fBuzTdpZyB4NDIXoZ/giphy.gif">
+
+<br>
+
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI1aThra2phc3oydGh3bWE1Z2xpYzh4bHI2djJjbHM2NWdmMHBtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8fBuzTdpZyB4NDIXoZ/giphy.gif"
+/>
+
+<br>
+
 
 
 <p>
@@ -14,7 +25,7 @@ Code is where my day begins and where my curiosity lives. Writing it, fixing it,
 — Martin Fowler
 </p>
 
-
+<br>
 <a href="https://discord.com/users/705335206286065685">
   <picture>
     <source
@@ -28,8 +39,8 @@ Code is where my day begins and where my curiosity lives. Writing it, fixing it,
   </picture>
 </a>
 
-
-
+<br>
+<br>
 
 <!--
 <br>
